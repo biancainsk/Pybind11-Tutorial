@@ -1,1 +1,0 @@
-/usr/bin/g++ -fPIC  -flto -shared  -o SumFunction.cpython-38-x86_64-linux-gnu.so CMakeFiles/SumFunction.dir/main.cpp.o 
